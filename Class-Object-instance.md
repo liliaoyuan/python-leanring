@@ -1,5 +1,4 @@
-## for Class and Object 
-### class 
+## for Class and Instance as well as object
 *Class for python is reussable function and variable*
 
 ``` python
@@ -37,3 +36,10 @@ h3 = Human("qiubao","black",28)
 h2.use_python()
 ```
 we get `hello_worldqiubao`
+
+### The looking up
+> let us think in a hardware way
+> 1. if you have a `dot` expression in your code what will the computer do
+>    1. Fisrt, the CU would depend whether the instance has the attributes
+>    2. If not they will look up the class defination
+Here you may have a idea about the instance, the real object created in a class like (h1 h2 h3)  as above 
