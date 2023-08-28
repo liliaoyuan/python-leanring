@@ -42,4 +42,10 @@ we get `hello_worldqiubao`
 > 1. if you have a `dot` expression in your code what will the computer do
 >    1. Fisrt, the CU would depend whether the instance has the attributes
 >    2. If not they will look up the class defination
-Here you may have a idea about the instance, the real object created in a class like (h1 h2 h3)  as above 
+Here you may have a idea about the instance, the real object created in a class like (h1 h2 h3)  as above
+
+**moreover**
+The excute sequence is like to be near and far 
+> 1. the attribute
+> 2. the instance-defined 
+> 3. the base class 
